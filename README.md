@@ -1,4 +1,4 @@
-# Shenghua-You-CSC59970 data science
+# Shenghua-You-CSC59970-Data-Science
 **Name: Shenghua You**
 
 **Github username: Shenghuayou**
