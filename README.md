@@ -1,3 +1,12 @@
-# Data-Science-CSC59970
+# Data-Science-CSC59970 Assignment Topics #
+* MoneyBall
+* Gapminder
+* Stats two populations
+* Gene Expression
+* Investigating Pollster Bias
+* Averages of Polls]
+* Predict (after the fact) the 2014 election
+* Introduction to Machine Learning: Clustering and Regression
+* Recommender Systems
 
-**link to project https://github.com/LinfinityLab/nyc-yellow-taxi-prediction**
+<b>Link to project:</b>https://github.com/shenghuayou/nyc-yellow-taxi-prediction
